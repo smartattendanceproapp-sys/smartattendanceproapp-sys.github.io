@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.smartattendancepro.app",
+    "sha256_cert_fingerprints": ["01:D1:E3:B5:B7:71:D8:EC:9D:47:78:77:6C:D8:E3:19:08:39:F0:F9:87:31:CF:4D:85:2A:D4:5D:6D:97:9F:FA"]
+  }
+}]
